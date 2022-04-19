@@ -13,5 +13,5 @@ int x;
 x = *a;
 *a = *b;
 *b = x;
-return 0;
+return;
 }
