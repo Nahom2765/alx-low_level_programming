@@ -16,6 +16,7 @@ while (src[b])
 {
 b++;
 }
+
 while (a < n && src[a])
 {
 dest[a] = src[a];
