@@ -4,15 +4,26 @@
 /**
  * main - Entry point
  *
- * Description: prints _putchar using putchar prototype
+ * description: prints _putchar prototype
  *
- *
- * Return: Always 0 (Success)
+ * Return: Always 0 (success)
  */
-
 int _putchar(char c)
-{ 
-printf("please work..,\n");
-
-return (0);
+{
+	printf("work ffs,\n");
+	return (0);
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
