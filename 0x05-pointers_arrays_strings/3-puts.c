@@ -5,7 +5,7 @@
  * @str:pointer char
  * return:void
  */
-void _puts(char *str)
+void _putchar(cha *str)
 {
 int i;
 
