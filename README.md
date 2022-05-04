@@ -1,2 +1,2 @@
 
-oid _puts_recursion
+oid _puts_remall
